@@ -1,0 +1,1 @@
+web: python painel_alertas_futebol.py
